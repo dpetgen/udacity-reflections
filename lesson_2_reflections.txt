@@ -23,3 +23,7 @@ What is the result of merging two branches together? Why do we represent it in t
     The changes in both branches are represented in the combined branch.
     It's represented that way because it makes logical sense.
     
+    
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    
+    Manual merges are tedious but allow for greater flexibility.
